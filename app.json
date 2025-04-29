@@ -2,6 +2,10 @@
   "expo": {
     "name": "MealsToGo",
     "slug": "MealsToGo",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
